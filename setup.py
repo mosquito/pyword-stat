@@ -23,4 +23,9 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
     packages=find_packages(exclude=['tests']),
+    entry_points={
+        'console_scripts': [
+            'pyword-stat = pyword_stat:main',
+        ]
+    }
 )
