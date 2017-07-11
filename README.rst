@@ -8,7 +8,7 @@ Installation
 
 .. code-block:: shell
 
-    pip install https://github.com/mosquito/pyword-stat/archive/master.zip
+    pip3 install https://github.com/mosquito/pyword-stat/archive/master.zip
 
 
 Usage example
